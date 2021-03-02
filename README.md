@@ -1,4 +1,4 @@
-![](https://github.com/Intercrus/Intercrus/blob/main/imgonline-com-ua-Mirror-9jEw5sFdS5Tp0aca.jpg)
+
 
 - [acmp](https://acmp.ru/index.asp?main=user&id=311839)
 - [codeforces](https://codeforces.com/profile/ysemy)
