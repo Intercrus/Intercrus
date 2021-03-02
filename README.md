@@ -2,8 +2,8 @@
 
 [![HackerRank](https://img.shields.io/badge/-@Intercrus-313131?style=flat-square&labelColor=313131&logo=HackerRank&logoColor=white&color=313131)](https://www.hackerrank.com/Intercrus)   
 [![Codeforces](https://img.shields.io/badge/-@ysemy-313131?style=flat-square&labelColor=313131&logo=Codeforces&logoColor=white&color=313131)](https://codeforces.com/profile/ysemy)   
-[![LeetCode](https://img.shields.io/badge/-@Intercrus-313131?style=flat-square&labelColor=313131&logo=LeetCode&logoColor=white&color=313131)](https://leetcode.com/intercrus/)   
-skills: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/postgresql.png"></code> 
+[![LeetCode](https://img.shields.io/badge/-@Intercrus-313131?style=flat-square&labelColor=313131&logo=LeetCode&logoColor=white&color=313131)](https://leetcode.com/intercrus/)     
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 
