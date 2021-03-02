@@ -1,11 +1,4 @@
-```
-.___        __                                          
-|   | _____/  |_  ___________  ___________ __ __  ______
-|   |/    \   __\/ __ \_  __ \/ ___\_  __ \  |  \/  ___/
-|   |   |  \  | \  ___/|  | \|  \___|  | \/  |  /\___ \ 
-|___|___|  /__|  \___  >__|   \___  >__|  |____//____  >
-         \/          \/           \/                 \/ 
-```
+![](https://github.com/Intercrus/Intercrus/blob/main/imgonline-com-ua-Mirror-9jEw5sFdS5Tp0aca.jpg)
 
 - [acmp](https://acmp.ru/index.asp?main=user&id=311839)
 - [codeforces](https://codeforces.com/profile/ysemy)
