@@ -1,1 +1,1 @@
-![](https://github.com/Intercrus/Intercrus/blob/main/unnamed%20(3).png)
+![](https://github.com/Intercrus/Intercrus/blob/main/imgonline-com-ua-mirror-fopxigs1rau.uuIVW.jpg)
